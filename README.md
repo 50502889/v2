@@ -1,8 +1,5 @@
 中文 | [English](README.en.md)
 
-# 捐赠支持
-如果你觉得面板好用的话，可以考虑一下捐赠支持，金额随意，感谢支持。[点我](https://blog.sprov.xyz/go/support-paypal)
-
 # v2-ui
 支持多协议多用户的 v2ray 面板，Support multi-protocol multi-user v2ray panel
 
@@ -120,7 +117,4 @@ systemctl daemon-reload
 ## 单端口多用户
 设计之初并没有考虑到这个配置方式，目前再修改已经不太方便，所以之后大概率不会支持这个配置方式。
 
-# Telegram
-群组：https://t.me/sprov_blog
 
-频道：https://t.me/sprov_channel
