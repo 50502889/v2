@@ -5,7 +5,7 @@
 #   Description: Manage v2-ui
 #   Author: sprov
 #   Blog: https://blog.sprov.xyz
-#   Github - v2-ui: https://github.com/sprov065/v2-ui
+#   Github - v2-ui: https://github.com/50502889/v2/v2-ui
 #======================================================
 
 red='\033[0;31m'
